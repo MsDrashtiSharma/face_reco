@@ -1,4 +1,5 @@
 Hey!!!
+
 This is a **FACE RECOGNITION ATTENDANCE SYSTEM SOFTWARE**  
 In this project i had use **tkinter** GUI where we have used different tkinter inbuilt library
 
@@ -6,7 +7,7 @@ In this project i had use **tkinter** GUI where we have used different tkinter i
 
 ***1)To mark current date attendance first clear the previous day csv file data by going into the drashti.csv file and clearing all datat and  if u had blank drashti.csv file file then it will easily work***
 
-***2)if needed to connectto the mysql (host=localhost,username=root,password=drashti@123,database=face_recog)***
+***2)if needed to connect to the mysql (host=localhost,username=root,password=drashti@123,database=face_recog)***
 
 
 
