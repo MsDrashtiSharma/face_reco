@@ -1,7 +1,7 @@
 Hey!!!
 
 This is a **FACE RECOGNITION ATTENDANCE SYSTEM SOFTWARE**  
-In this project i had use **tkinter** GUI where we have used different tkinter inbuilt library
+In this project i had use **tkinter** Python GUI where we have used different tkinter widgets
 
 **prerequirement -->**
 
