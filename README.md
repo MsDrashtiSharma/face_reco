@@ -5,9 +5,11 @@ In this project i had use **tkinter** Python GUI where we have used different tk
 
 **prerequirement -->**
 
-***1)To mark current date attendance first clear the previous day csv file data by going into the drashti.csv file and clearing all datat and  if u had blank drashti.csv file file then it will easily work***
+***1)Install python,git,cmake,dlib(as per your python version),opencv_contrib_python,cv2.***
 
-***2)if needed to connect to the mysql (host=localhost,username=root,password=drashti@123,database=face_recog)***
+***2)To mark current date attendance first clear the previous day csv file data by going into the drashti.csv file and clearing all datat and  if u had blank drashti.csv file file then it will easily work***
+
+***3)if needed to connect to the mysql (host=localhost,username=root,password=drashti@123,database=face_recog)***
 
 
 
