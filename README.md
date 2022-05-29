@@ -27,7 +27,7 @@ This is the **Home page**
 
 **To see the working**
 
-**step 1)** Go to student detail and fill the details n if u want to uplaod images select the check box and upload it and all these details get stored in mysql server u can  save, update ,delete or reset the screen by clicking on thier respective buttons 
+**step 1)** Go to student detail and fill the details  in sequential number (with respect to Id ) **That is** either start from 1 or from where the last record which is stored in database get end and if u want to uplaod images select the take photo radio button  and upload it and all these details get stored in mysql server u can  also  save, update ,delete or reset the screen by clicking on thier respective buttons 
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/93121225/169994582-2c09b231-eec2-47f5-9730-d68d3c836898.png)
 
