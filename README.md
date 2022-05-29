@@ -71,7 +71,9 @@ Finally after taking all the attendance u can exit the page by clicking on exit 
 ![Screenshot (11)](https://user-images.githubusercontent.com/93121225/170007325-74a59d74-3d2f-4a28-8e24-2cb7edfededb.png)
 
 
-THANK YOU FOR READING 
+
+
+                                                     **THANK YOU FOR READING **
 
 
 
