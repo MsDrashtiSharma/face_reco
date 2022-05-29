@@ -5,13 +5,14 @@ In this project i had use **tkinter** Python GUI where we have used different tk
 
 **PREREQUISITE**
 
-***1)Install python,git,cmake,dlib(as per your python version),opencv_contrib_python,cv2 and face recognition library .***
+***1)Install python,git,cmake,opencv_contrib_python,dlib(as per your python version),cv2 and face recognition library .***
 
  **NOTE**
  
 ***1)To mark current date attendance first clear the previous day csv file data by going into the drashti.csv file and clearing all datat and  if u had blank drashti.csv file file then it will easily work***
 
 ***2)Please fill the student id sequentially starting from 1,2,3,..... for the proper functioning of the loop***
+
 ***3)if needed to connect to the mysql (host=localhost,username=root,password=drashti@123,database=face_recog)***
 
 
