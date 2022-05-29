@@ -13,7 +13,7 @@ In this project i had use **tkinter** Python GUI where we have used different tk
  
 ***1) To mark current date attendance first clear the previous day csv file data by going into the drashti.csv file and clearing all datat and  if u had blank drashti.csv file file then it will easily work***
 
-***2) Please fill the student id sequentially starting from 1,2,3,..... for the proper functioning of the loop***
+***2) Please fill the student id sequentially Like 1,2,3,.....n for the proper functioning of the loop***
 
 ***3) If needed to connect to the mysql (host=localhost,username=root,password=drashti@123,database=face_recog)***
 
