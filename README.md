@@ -6,6 +6,7 @@ In this project i had use **tkinter** Python GUI where we have used different tk
 **PREREQUISITE**
 
 ***1) Install python , git , cmake , opencv_contrib_python , dlib(as per your python version) , cv2 and face recognition library .***
+
 ***2) To see the  functioning of this desktop application please do detect the image  from your side  by entering a student detail all by your side so that you can see the attendance file or either take screenshot of images present inside file (named with data) and  detect the face to mark the attendance and view the attendance file(drashti.csv)***
 
  **NOTE**
