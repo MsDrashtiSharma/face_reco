@@ -5,15 +5,16 @@ In this project i had use **tkinter** Python GUI where we have used different tk
 
 **PREREQUISITE**
 
-***1)Install python,git,cmake,opencv_contrib_python,dlib(as per your python version),cv2 and face recognition library .***
+***1) Install python , git , cmake , opencv_contrib_python , dlib(as per your python version) , cv2 and face recognition library .***
+***2) To see the  functioning of this desktop application please do detect the image  from your side  by entering a student detail all by your side so that you can see the attendance file or either take screenshot of images present inside file (named with data) and  detect the face to mark the attendance and view the attendance file(drashti.csv)***
 
  **NOTE**
  
-***1)To mark current date attendance first clear the previous day csv file data by going into the drashti.csv file and clearing all datat and  if u had blank drashti.csv file file then it will easily work***
+***1) To mark current date attendance first clear the previous day csv file data by going into the drashti.csv file and clearing all datat and  if u had blank drashti.csv file file then it will easily work***
 
-***2)Please fill the student id sequentially starting from 1,2,3,..... for the proper functioning of the loop***
+***2) Please fill the student id sequentially starting from 1,2,3,..... for the proper functioning of the loop***
 
-***3)if needed to connect to the mysql (host=localhost,username=root,password=drashti@123,database=face_recog)***
+***3) If needed to connect to the mysql (host=localhost,username=root,password=drashti@123,database=face_recog)***
 
 
 
